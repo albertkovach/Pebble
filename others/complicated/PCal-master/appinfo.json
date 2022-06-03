@@ -1,0 +1,36 @@
+{
+  "uuid": "38e4b1ab-474e-4fec-bd42-dbd220c6cd51",
+  "shortName": "PCal",
+  "longName": "PCal",
+  "companyName": "Jnm",
+  "versionCode": 2,
+  "versionLabel": "3.5",
+  "watchapp": {
+    "watchface": false
+  },
+  "capabilities": [
+    "configurable"
+  ],
+  "appKeys": {
+    "lang": 30,
+    "weekstart": 31,
+    "nwd_country": 32,
+    "showweeknum": 33
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk"
+  ],
+  "sdkVersion": "3"
+}

@@ -1,0 +1,24 @@
+{
+    "targetPlatforms": [
+        "basalt", 
+        "chalk"
+    ], 
+    "projectType": "native", 
+    "uuid": "4c6e6f93-b7d2-4861-87e1-4e7b21fa0706", 
+    "messageKeys": {}, 
+    "companyName": "green.kelby@gmail.com", 
+    "versionLabel": "2.0", 
+    "capabilities": [
+        ""
+    ], 
+    "sdkVersion": "3", 
+    "appKeys": {}, 
+    "longName": "Color Calendar", 
+    "shortName": "Calendar", 
+    "watchapp": {
+        "watchface": false
+    }, 
+    "resources": {
+        "media": []
+    }
+}

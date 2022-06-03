@@ -1,0 +1,46 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "AzagraMac",
+    "longName": "Clock SDK",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon_menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON_MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Clock SDK",
+    "uuid": "25745a34-5b5f-4243-ab4e-bf509bb0c052",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}

@@ -1,0 +1,11 @@
+# Ignore build generated files
+build
+node_modules
+.lock-waf*
+pebble-screenshot*.*
+.*.swp
+Thumbs.db
+.vscode
+.env
+src/pkjs/**
+
