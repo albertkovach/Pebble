@@ -1,0 +1,35 @@
+{
+  "name": "edgy-cl",
+  "author": "AlbertKovach",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Edgy-CL",
+    "uuid": "20ebef70-1a04-45a6-bd71-19f701c947a6",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BACK",
+          "file": "images/background.png"
+        }
+      ]
+    }
+  }
+}

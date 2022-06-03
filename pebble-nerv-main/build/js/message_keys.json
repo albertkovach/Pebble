@@ -1,0 +1,13 @@
+{
+    "CONDITIONS": 10001,
+    "TEMPERATURE": 10000,
+    "bwBgColor": 10010,
+    "colourScheme": 10002,
+    "customKey": 10007,
+    "customLoc": 10008,
+    "fahrenheit": 10003,
+    "hideDotw": 10004,
+    "hideTemp": 10006,
+    "japanese": 10005,
+    "secret": 10009
+}

@@ -1,0 +1,36 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "Edgy-CL", 
+    "name": "edgy-cl", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "AlbertKovach", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "Edgy-CL", 
+    "shortName": "Edgy-CL", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": [
+            {
+                "type": "bitmap", 
+                "name": "IMAGE_BACK", 
+                "file": "images/background.png"
+            }
+        ]
+    }, 
+    "uuid": "20ebef70-1a04-45a6-bd71-19f701c947a6"
+}
